@@ -1,2 +1,2 @@
-# kala4me
+# Munny
 My personal finance web app
